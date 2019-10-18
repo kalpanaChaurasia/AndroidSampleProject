@@ -1,0 +1,10 @@
+<?xml version ="1.0" encoding ="utf-8"?><!--  Learn More about how to use App Actions: https://developer.android.com/guide/actions/index.html -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search"
+        android:icon="@android:drawable/ic_secure"
+        android:orderInCategory="100"
+        android:title="Search"
+        app:showAsAction="never" />
+</menu>
